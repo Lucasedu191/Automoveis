@@ -25,9 +25,9 @@ namespace curso {
             m1.addCarro(c3);
             Carro c4 = new Carro(104, "Cruze", 2016, 30000.00, m2);
             m2.addCarro(c4);
-            Carro c5 = new Carro(105, "Cobalt", 2015, 25000.00, m2);
+            Carro c5 = new Carro(105, "Vectra", 2015, 25000.00, m2);
             m2.addCarro(c5);
-            Carro c6 = new Carro(106, "Cobalt", 2017, 35000.00, m2);
+            Carro c6 = new Carro(106, "Vectra", 2017, 35000.00, m2);
             m2.addCarro(c6);
 
             // ARMAZENANDO AS MARCAS E CARROS NAS LISTAS LOCAIS DO PROGRAMA:
