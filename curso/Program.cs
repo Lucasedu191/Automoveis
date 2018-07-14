@@ -15,6 +15,7 @@ namespace curso {
             // INICIANDO AS MARCAS:
             Marca m1 = new Marca(1001, "Volkswagen", "Alemanha");
             Marca m2 = new Marca(1002, "General Motors", "Estados Unidos");
+            Marca m3 = new Marca(1003, "Fiat", "Italia");
 
             // INICIANDO OS CARROS
             Carro c1 = new Carro(101, "Fusca", 1980, 5000.00, m1);
